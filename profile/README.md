@@ -8,5 +8,5 @@ The highlights are:
 
 * [pypesto](https://github.com/ICB-DCM/pyPESTO/) for parameter estimation in Python
 * [PEtab](https://petab.readthedocs.io/) for specifying parameter estimation problems in systems biology in an efficient and interoperable manner
-* [AMICI](https://github.com/AMICI-dev/AMICI/) for scalable simulation and sensitivity analysis (Python / C++ (/ Matlab))
+* [AMICI](https://github.com/AMICI-dev/AMICI/) for scalable simulation and sensitivity analysis (Python / C++)
 * [pyABC](https://github.com/ICB-DCM/pyABC) for distributed and scalable ABC-SMC (Approximate Bayesian Computation - Sequential Monte Carlo) for parameter estimation of complex stochastic models (Python)
